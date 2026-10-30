@@ -1,0 +1,6 @@
+{
+  "name": "DeepGuard AI — Intelligent Media & Document Verification System",
+  "description": "Comprehensive AI-powered forensic verification platform detecting manipulated, AI-generated images, deepfake videos, and forged documents with explainable confidence and interactive AI assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
